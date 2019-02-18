@@ -1,0 +1,9 @@
+id,tipo,fecha,data
+1, Companero, Sun Sep 25 2005 00:00:00 GMT-0500 (Ecuador Time), 83
+1, Companero, Fri Mar 10 2006 00:00:00 GMT-0500 (Ecuador Time), 86
+1, Companero, Fri Sep 15 2006 00:00:00 GMT-0500 (Ecuador Time), 82
+1, Companero, Sun Mar 18 2007 00:00:00 GMT-0500 (Ecuador Time), 79
+2, Estudiante, Sun Sep 25 2005 00:00:00 GMT-0500 (Ecuador Time), 87
+2, Estudiante, Fri Mar 10 2006 00:00:00 GMT-0500 (Ecuador Time), 79
+2, Estudiante, Fri Sep 15 2006 00:00:00 GMT-0500 (Ecuador Time), 66
+2, Estudiante, Sun Mar 18 2007 00:00:00 GMT-0500 (Ecuador Time), 71
